@@ -1,7 +1,7 @@
 # Olympic Games Analysis
 
 ## Purposes of the project
-The major aim of this project is to gain insight into the data of 120 years of Olympic history. All the insights have been prepared in MySQL.
+The major aim of this project is to gain insight into the data of 120 years of Olympic history. All the insights have been prepared in MySQL and vizualized in Power BI.
 
 ## About Dataset
 The dataset was downloaded from the Kaggle (https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results).
